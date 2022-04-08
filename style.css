@@ -1,0 +1,19 @@
+.heading{
+width: 100%;
+text-align: center;
+height: 65px;
+padding-top: 15px;
+padding-left: 100px;
+}
+.heading h3{
+    display: inline;
+}
+.heading2{
+    float: right;
+    border: 1px solid white;
+}
+
+
+#status , #start{
+    font-size: 22px;
+}
